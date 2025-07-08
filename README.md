@@ -7,7 +7,7 @@
 - ✨ **Launcher and Backends**
 
 ### 🧐 About Me
-- **Projects:** Soon
+- **Popular Repositories:** Soon
 - **Games:** Fortnite, Minecraft, Roblox, Spiltgate 2, etc...
 
 ### 📫 Connect with Me  
