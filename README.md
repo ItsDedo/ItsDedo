@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi i'm Dedo
+
+[![My Skills](https://skillicons.dev/icons?i=github,js,ts,discord,discordjs)](https://skillicons.dev)
+
+### 👀 What do I like to develop most?  
+- 🕹️ **OG Fortnite**  
+- ✨ **Launcher**
+
+### 🧐 About Me
+- **Projects:** Soon
+- **Games:** Fortnite, Minecraft, Roblox etc...
+
+### 📫 Connect with Me  
+- 💬 Discord: `@itsdedo.spider`
+
 
 <!--
 **ItsDedo/ItsDedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
