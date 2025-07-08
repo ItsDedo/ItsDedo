@@ -4,11 +4,11 @@
 
 ### 👀 What do I like to develop most?  
 - 🕹️ **OG Fortnite**  
-- ✨ **Launcher**
+- ✨ **Launcher and Backends**
 
 ### 🧐 About Me
 - **Projects:** Soon
-- **Games:** Fortnite, Minecraft, Roblox etc...
+- **Games:** Fortnite, Minecraft, Roblox, Spiltgate 2, etc...
 
 ### 📫 Connect with Me  
 - 💬 Discord: `@itsdedo.spider`
