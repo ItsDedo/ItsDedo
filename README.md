@@ -1,6 +1,6 @@
 ## 👋 Hi i'm Dedo
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,ts,discord,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
 ### 👀 What do I like to develop most?  
 - 🕹️ **OG Fortnite**  
